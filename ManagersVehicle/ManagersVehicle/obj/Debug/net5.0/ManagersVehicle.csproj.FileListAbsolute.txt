@@ -1,0 +1,15 @@
+D:\ManagersVehicle\ManagersVehicle\ManagersVehicle\bin\Debug\net5.0\ManagersVehicle.exe
+D:\ManagersVehicle\ManagersVehicle\ManagersVehicle\bin\Debug\net5.0\ManagersVehicle.deps.json
+D:\ManagersVehicle\ManagersVehicle\ManagersVehicle\bin\Debug\net5.0\ManagersVehicle.runtimeconfig.json
+D:\ManagersVehicle\ManagersVehicle\ManagersVehicle\bin\Debug\net5.0\ManagersVehicle.runtimeconfig.dev.json
+D:\ManagersVehicle\ManagersVehicle\ManagersVehicle\bin\Debug\net5.0\ManagersVehicle.dll
+D:\ManagersVehicle\ManagersVehicle\ManagersVehicle\bin\Debug\net5.0\ManagersVehicle.pdb
+D:\ManagersVehicle\ManagersVehicle\ManagersVehicle\obj\Debug\net5.0\ManagersVehicle.GeneratedMSBuildEditorConfig.editorconfig
+D:\ManagersVehicle\ManagersVehicle\ManagersVehicle\obj\Debug\net5.0\ManagersVehicle.AssemblyInfoInputs.cache
+D:\ManagersVehicle\ManagersVehicle\ManagersVehicle\obj\Debug\net5.0\ManagersVehicle.AssemblyInfo.cs
+D:\ManagersVehicle\ManagersVehicle\ManagersVehicle\obj\Debug\net5.0\ManagersVehicle.csproj.CoreCompileInputs.cache
+D:\ManagersVehicle\ManagersVehicle\ManagersVehicle\obj\Debug\net5.0\ManagersVehicle.dll
+D:\ManagersVehicle\ManagersVehicle\ManagersVehicle\obj\Debug\net5.0\refint\ManagersVehicle.dll
+D:\ManagersVehicle\ManagersVehicle\ManagersVehicle\obj\Debug\net5.0\ManagersVehicle.pdb
+D:\ManagersVehicle\ManagersVehicle\ManagersVehicle\obj\Debug\net5.0\ManagersVehicle.genruntimeconfig.cache
+D:\ManagersVehicle\ManagersVehicle\ManagersVehicle\obj\Debug\net5.0\ref\ManagersVehicle.dll

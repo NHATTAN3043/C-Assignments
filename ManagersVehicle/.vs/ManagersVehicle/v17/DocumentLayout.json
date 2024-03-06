@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ManagersVehicle\\ManagersVehicle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5A6999-7E59-400C-B37D-B9310ADF169B}|ManagersVehicle\\ManagersVehicle.csproj|d:\\managersvehicle\\managersvehicle\\managersvehicle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5A6999-7E59-400C-B37D-B9310ADF169B}|ManagersVehicle\\ManagersVehicle.csproj|solutionrelative:managersvehicle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5A6999-7E59-400C-B37D-B9310ADF169B}|ManagersVehicle\\ManagersVehicle.csproj|d:\\managersvehicle\\managersvehicle\\managersvehicle\\listtruck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5A6999-7E59-400C-B37D-B9310ADF169B}|ManagersVehicle\\ManagersVehicle.csproj|solutionrelative:managersvehicle\\listtruck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5A6999-7E59-400C-B37D-B9310ADF169B}|ManagersVehicle\\ManagersVehicle.csproj|d:\\managersvehicle\\managersvehicle\\managersvehicle\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5A6999-7E59-400C-B37D-B9310ADF169B}|ManagersVehicle\\ManagersVehicle.csproj|solutionrelative:managersvehicle\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5A6999-7E59-400C-B37D-B9310ADF169B}|ManagersVehicle\\ManagersVehicle.csproj|d:\\managersvehicle\\managersvehicle\\managersvehicle\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5A6999-7E59-400C-B37D-B9310ADF169B}|ManagersVehicle\\ManagersVehicle.csproj|solutionrelative:managersvehicle\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5A6999-7E59-400C-B37D-B9310ADF169B}|ManagersVehicle\\ManagersVehicle.csproj|d:\\managersvehicle\\managersvehicle\\managersvehicle\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5A6999-7E59-400C-B37D-B9310ADF169B}|ManagersVehicle\\ManagersVehicle.csproj|solutionrelative:managersvehicle\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5A6999-7E59-400C-B37D-B9310ADF169B}|ManagersVehicle\\ManagersVehicle.csproj|d:\\managersvehicle\\managersvehicle\\managersvehicle\\listcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5A6999-7E59-400C-B37D-B9310ADF169B}|ManagersVehicle\\ManagersVehicle.csproj|solutionrelative:managersvehicle\\listcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListCar.cs",
+              "DocumentMoniker": "D:\\ManagersVehicle\\ManagersVehicle\\ManagersVehicle\\ListCar.cs",
+              "RelativeDocumentMoniker": "ManagersVehicle\\ListCar.cs",
+              "ToolTip": "D:\\ManagersVehicle\\ManagersVehicle\\ManagersVehicle\\ListCar.cs",
+              "RelativeToolTip": "ManagersVehicle\\ListCar.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T14:28:00.626Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListTruck.cs",
+              "DocumentMoniker": "D:\\ManagersVehicle\\ManagersVehicle\\ManagersVehicle\\ListTruck.cs",
+              "RelativeDocumentMoniker": "ManagersVehicle\\ListTruck.cs",
+              "ToolTip": "D:\\ManagersVehicle\\ManagersVehicle\\ManagersVehicle\\ListTruck.cs",
+              "RelativeToolTip": "ManagersVehicle\\ListTruck.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwDQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T18:04:03.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "D:\\ManagersVehicle\\ManagersVehicle\\ManagersVehicle\\Truck.cs",
+              "RelativeDocumentMoniker": "ManagersVehicle\\Truck.cs",
+              "ToolTip": "D:\\ManagersVehicle\\ManagersVehicle\\ManagersVehicle\\Truck.cs",
+              "RelativeToolTip": "ManagersVehicle\\Truck.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T14:25:03.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\ManagersVehicle\\ManagersVehicle\\ManagersVehicle\\Car.cs",
+              "RelativeDocumentMoniker": "ManagersVehicle\\Car.cs",
+              "ToolTip": "D:\\ManagersVehicle\\ManagersVehicle\\ManagersVehicle\\Car.cs",
+              "RelativeToolTip": "ManagersVehicle\\Car.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T14:11:40.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "D:\\ManagersVehicle\\ManagersVehicle\\ManagersVehicle\\Vehicle.cs",
+              "RelativeDocumentMoniker": "ManagersVehicle\\Vehicle.cs",
+              "ToolTip": "D:\\ManagersVehicle\\ManagersVehicle\\ManagersVehicle\\Vehicle.cs",
+              "RelativeToolTip": "ManagersVehicle\\Vehicle.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T13:56:47.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ManagersVehicle\\ManagersVehicle\\ManagersVehicle\\Program.cs",
+              "RelativeDocumentMoniker": "ManagersVehicle\\Program.cs",
+              "ToolTip": "D:\\ManagersVehicle\\ManagersVehicle\\ManagersVehicle\\Program.cs",
+              "RelativeToolTip": "ManagersVehicle\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T13:54:51.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
