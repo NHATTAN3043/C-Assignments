@@ -10,6 +10,7 @@ namespace ManagersVehicle
     internal class ListCar : Car
     {
         List<Car> listCars = new List<Car>();
+        // ham nhap list car
         public void inputListCar()
         {
             int n = 0;
@@ -23,6 +24,7 @@ namespace ManagersVehicle
                 n = Int16.Parse(Console.ReadLine());
             } while (n == 1);
         }
+        // ham in list car co doi 
         public void outputListCar(IEnumerable<Car> listC)
         {
             if (listC == null)
@@ -34,6 +36,7 @@ namespace ManagersVehicle
                 car.output();
             }
         }
+        // ham in khong doi
         public void outputListCar()
         {
             if (listCars == null)
@@ -45,17 +48,26 @@ namespace ManagersVehicle
                 car.output();
             }
         }
+        // ham loc xe theo gia xe
         public  void filterPriceCar(double start, double end)
         {
             var list = listCars.Where(car => car.Price > start && car.Price < end);
-            this.outputListCar(list);
+            if (list == null)
+                Console.WriteLine("LIST CAR IS EMPTY ");
+            else
+                this.outputListCar(list);
 
         }
+        // ham loc xe theo nam san xuat 
         public void filterYomCar(int yom)
         {
             var list = listCars.Where(car => car.Yom > yom);
-            this.outputListCar(list);
+            if (list == null)
+                Console.WriteLine("LIST CAR IS EMPTY ");
+            else
+                this.outputListCar(list);        
         }
+        // ham nhom xe theo hang san xuat va tinh tong gia tri xe cua hang do
         public void groupByMFTandSumValues()
         {
             var list = listCars

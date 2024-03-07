@@ -30,9 +30,13 @@ namespace ManagersVehicle
 
         public override void output()
         {
-            base.output();
-            Console.WriteLine("ManagerCompany: " + this.managerCompany);
+            Console.WriteLine($"ID: {this.id} | Name: {this.name} | YOM: {this.yom} | Color: {this.color} | Price: {this.price} | Amount: {this.amount} | Manager Company: {this.managerCompany}");
 
+        }
+
+        public override string ToString()
+        {
+            return base.ToString();
         }
     }
 }

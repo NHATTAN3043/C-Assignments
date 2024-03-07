@@ -13,3 +13,4 @@ D:\ManagersVehicle\ManagersVehicle\ManagersVehicle\obj\Debug\net5.0\refint\Manag
 D:\ManagersVehicle\ManagersVehicle\ManagersVehicle\obj\Debug\net5.0\ManagersVehicle.pdb
 D:\ManagersVehicle\ManagersVehicle\ManagersVehicle\obj\Debug\net5.0\ManagersVehicle.genruntimeconfig.cache
 D:\ManagersVehicle\ManagersVehicle\ManagersVehicle\obj\Debug\net5.0\ref\ManagersVehicle.dll
+D:\ManagersVehicle\ManagersVehicle\ManagersVehicle\obj\Debug\net5.0\ManagersVehicle.sourcelink.json

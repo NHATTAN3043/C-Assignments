@@ -98,12 +98,8 @@ namespace ManagersVehicle
         }
         public virtual void output()
         {
-            Console.WriteLine("ID: " + this.id);
-            Console.WriteLine("Name: " + this.name);
-            Console.WriteLine("Year of maked: " + this.yom);
-            Console.WriteLine("Color: " + this.color);
-            Console.WriteLine("Price: " + this.price);
-            Console.WriteLine("Amount: " + this.amount);
+            Console.WriteLine($"ID: {this.id} | Name: {this.name} | YOM: {this.yom} | Color: {this.color} | Price: {this.price} | Amount: {this.amount} ");            
         }
+      
     }
 }
